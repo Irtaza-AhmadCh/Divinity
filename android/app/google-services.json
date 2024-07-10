@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "367237549410",
+    "project_id": "divinity-f76d8",
+    "storage_bucket": "divinity-f76d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367237549410:android:6ccadd5c019dfb7e0e703b",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaUxGVn0G6-ITg3x5zjDltIqcQsOL7-y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367237549410:android:ba1a65b846b4b79a0e703b",
+        "android_client_info": {
+          "package_name": "com.example.test_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaUxGVn0G6-ITg3x5zjDltIqcQsOL7-y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
